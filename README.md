@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
