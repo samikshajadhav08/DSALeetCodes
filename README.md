@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
