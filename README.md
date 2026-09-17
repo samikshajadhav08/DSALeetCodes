@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
@@ -102,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
