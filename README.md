@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Queue
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0242-valid-anagram) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
