@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0162-find-peak-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
