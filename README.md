@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
