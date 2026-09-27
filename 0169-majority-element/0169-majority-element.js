@@ -3,17 +3,11 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let candidate=0;
-    let count=0;
-    for(let i=0;i<nums.length;i++){
-        if(count===0){
-            candidate=nums[i];
-        }
-        if(nums[i]===candidate){
-            count++;
-        }else{
-        count--;
+    let freq=new Map();
+    for(let num of nums){
+        freq.set(num,(freq.get(num)||0)+1);
+        if(freq.get(num)>nums.length/2){
+            return num;
         }
     }
-    return candidate;
 };
