@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0128-longest-consecutive-sequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
