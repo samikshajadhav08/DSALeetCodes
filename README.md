@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -215,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
