@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
