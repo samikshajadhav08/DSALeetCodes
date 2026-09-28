@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
