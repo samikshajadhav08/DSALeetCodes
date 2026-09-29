@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1401-circle-and-rectangle-overlapping) |
