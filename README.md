@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
