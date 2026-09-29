@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
