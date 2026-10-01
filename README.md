@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1480-running-sum-of-1d-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0342-power-of-four) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
