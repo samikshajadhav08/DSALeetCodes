@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0125-valid-palindrome) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0338-counting-bits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
