@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0344-reverse-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0836-rectangle-overlap) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -356,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
