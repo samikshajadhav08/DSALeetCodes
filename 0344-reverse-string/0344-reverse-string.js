@@ -12,5 +12,4 @@ var reverseString = function(s) {
         left++;
         right--;
     }
-    return s;
 };
