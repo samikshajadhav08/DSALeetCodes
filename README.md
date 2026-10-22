@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
