@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0876-middle-of-the-linked-list) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0443-string-compression) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
