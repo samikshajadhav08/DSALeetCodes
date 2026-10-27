@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0068-text-justification) |
 | [3498-reverse-degree-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
