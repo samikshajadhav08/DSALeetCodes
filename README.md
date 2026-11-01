@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0724-find-pivot-index) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
