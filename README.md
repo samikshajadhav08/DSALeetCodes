@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1882-process-tasks-using-servers) |
+| [1929-concatenation-of-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0068-text-justification) |
+| [1929-concatenation-of-array](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
