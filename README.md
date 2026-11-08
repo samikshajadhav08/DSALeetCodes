@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1267-count-servers-that-communicate) |
 ## Recursion
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3665-twisted-mirror-path-count) |
@@ -445,12 +449,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samikshajadhav08/DSALeetCodes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quicksort
